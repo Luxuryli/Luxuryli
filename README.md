@@ -1,5 +1,4 @@
 ### Hi there 👋
-Hi there 👋
 Nice to meet you!
 
 I am Samson Olaku. I write Html,CSS,Javascript,React.
